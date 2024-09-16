@@ -1,8 +1,7 @@
-name: Help Wanted
-description: 도움이 필요하신가요?
-title: '[help wanted] '
-labels: ['help wanted']
-projects: ["Dev-FE-1/26"]
+name: help
+description: 도움이 필요하신가요? Need help?
+title: "[help] "
+labels: ["help"]
 body:
   - type: markdown
     attributes:
